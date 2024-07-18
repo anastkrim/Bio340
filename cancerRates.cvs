@@ -1,0 +1,228 @@
+patient_id,survival_rate,treatment_complications,stomach_cancer_incidence,stomach_region
+1,0.8,Yes,10.5,Upper
+2,0.9,No,5.0,Middle
+3,0.7,Yes,7.2,Lower
+4,0.85,Yes,11.3,Upper
+5,0.88,No,6.1,Middle
+6,0.75,Yes,9.7,Lower
+7,0.9,No,4.8,Upper
+8,0.92,No,5.9,Middle
+9,0.87,Yes,6.5,Lower
+10,0.82,Yes,8.8,Upper
+11,0.83,No,10.8,Upper
+12,0.9,No,4.9,Middle
+13,0.71,Yes,7.0,Lower
+14,0.84,Yes,11.1,Upper
+15,0.86,No,6.2,Middle
+16,0.77,Yes,9.8,Lower
+17,0.91,No,4.7,Upper
+18,0.93,No,5.7,Middle
+19,0.85,Yes,6.4,Lower
+20,0.81,Yes,8.9,Upper
+32,5,Japan,Tokyo,14.2 (21.3)
+21,8,Japan,Osaka,7.4 (19.2)
+15,12,Japan,Kyoto,9.1 (28.4)
+29,4,Japan,Nagoya,5.6 (22.9)
+38,7,Japan,Hiroshima,12.7 (30.5)
+27,11,Japan,Fukuoka,6.3 (18.6)
+43,6,Japan,Sendai,8.4 (27.2)
+14,9,Japan,Kobe,4.9 (14.3)
+55,3,Japan,Sapporo,11.0 (25.6)
+6,20,Japan,Kumamoto,2.5 (7.8)
+18,13,Japan,Naha,8.2 (15.4)
+30,17,Japan,Nagano,3.6 (12.3)
+22,15,Japan,Toyama,2.7 (10.9)
+7,21,Japan,Kanazawa,4.0 (17.6)
+36,14,Japan,Takasaki,9.3 (24.2)
+28,19,Japan,Okayama,5.9 (20.7)
+41,5,Japan,Toyohashi,7.8 (15.3)
+19,10,Japan,Tsu,6.4 (12.5)
+25,16,Japan,Yokohama,12.0 (26.8)
+5,22,India,Delhi,18.4 (29.7)
+40,8,India,Mumbai,12.9 (22.3)
+8,23,India,Bengaluru,16.8 (31.4)
+12,25,India,Chennai,9.5 (20.8)
+16,30,India,Kolkata,14.3 (27.9)
+20,6,India,Hyderabad,11.7 (25.1)
+11,12,India,Pune,7.6 (18.9)
+27,11,India,Ahmedabad,15.2 (32.0)
+43,6,India,Surat,10.8 (24.7)
+18,13,India,Jaipur,8.9 (22.1)
+30,17,India,Chandigarh,12.4 (28.2)
+22,15,India,Indore,14.1 (29.8)
+7,21,India,Coimbatore,6.5 (17.0)
+36,14,India,Vadodara,9.2 (23.4)
+28,19,India,Patna,13.0 (28.6)
+41,5,India,Kanpur,7.1 (19.4)
+19,10,India,Ludhiana,6.8 (14.6)
+25,16,India,Nashik,11.5 (25.9)
+5,22,Canada,Toronto,15.2 (24.8)
+40,8,Canada,Montreal,11.3 (21.9)
+8,23,Canada,Vancouver,18.6 (32.7)
+12,25,Canada,Calgary,7.7 (16.2)
+16,30,Canada,Edmonton,14.2 (28.4)
+20,6,Canada,Ottawa,9.5 (22.1)
+11,12,Canada,Quebec City,13.4 (29.7)
+27,11,Canada,Winnipeg,12.1 (26.8)
+43,6,Canada,Halifax,8.7 (20.4)
+18,13,Canada,Victoria,10.9 (24.5)
+30,17,Canada,St. John's,6.3 (15.2)
+22,15,Canada,London,11.8 (27.6)
+7,21,Canada,Richmond,8.1 (18.7)
+36,14,Canada,Mississauga,14.7 (30.4)
+28,19,Canada,Burnaby,10.5 (23.9)
+41,5,Canada,Surrey,12.3 (26.5)
+19,10,Canada,Oshawa,9.9 (20.2)
+25,16,Canada,Brantford,7.4 (17.1)
+5,22,UK,London,12.6 (22.3)
+40,8,UK,Manchester,11.2 (21.9)
+8,23,UK,Birmingham,9.5 (18.7)
+12,25,UK,Glasgow,14.8 (28.6)
+16,30,UK,Leeds,8.4 (16.5)
+20,6,UK,Sheffield,10.3 (22.7)
+11,12,UK,Edinburgh,13.1 (27.8)
+27,11,UK,Liverpool,7.9 (17.3)
+43,6,UK,Bristol,12.4 (25.1)
+18,13,UK,Cardiff,9.8 (20.6)
+30,17,UK,Newcastle,6.7 (15.2)
+22,15,UK,Nottingham,8.5 (19.4)
+7,21,UK,Leicester,14.2 (30.0)
+36,14,UK,Southampton,10.9 (23.8)
+28,19,UK,Portsmouth,11.3 (24.2)
+41,5,UK,Bournemouth,9.7 (21.4)
+19,10,UK,Reading,13.8 (29.6)
+25,16,UK,Oxford,12.1 (26.3)
+patient_id,age,sex,cancer_type,treatment_modality,country,muscle_mass_index
+1,65,Male,Stomach,Chemotherapy,Japan,35.2
+2,72,Female,Lung,Surgery,USA,45.1
+3,58,Male,Breast,Radiation,India,38.7
+4,66,Female,Stomach,Chemotherapy,China,30.5
+5,70,Male,Colon,Immunotherapy,Canada,40.3
+6,62,Female,Stomach,Chemotherapy,Brazil,28.9
+7,75,Male,Lung,Chemotherapy,UK,41.0
+8,59,Female,Breast,Radiation,Germany,42.6
+9,68,Male,Colon,Chemotherapy,France,39.5
+10,64,Female,Stomach,Chemotherapy,India,31.2
+11,60,Male,Stomach,Surgery,Japan,36.7
+12,55,Female,Lung,Chemotherapy,USA,44.2
+13,73,Male,Breast,Immunotherapy,India,37.5
+14,67,Female,Stomach,Chemotherapy,China,29.8
+15,71,Male,Colon,Surgery,Canada,41.1
+16,63,Female,Stomach,Immunotherapy,Brazil,30.2
+17,74,Male,Lung,Surgery,UK,40.7
+18,57,Female,Breast,Chemotherapy,Germany,43.0
+19,69,Male,Colon,Radiation,France,38.9
+20,61,Female,Stomach,Surgery,India,32.1
+patient_id,age,sex,cancer_type,treatment_modality,country,muscle_mass_index
+1,65,Male,Stomach,Chemotherapy,Japan,35.2
+2,72,Female,Lung,Surgery,USA,45.1
+3,58,Male,Breast,Radiation,India,38.7
+4,66,Female,Stomach,Chemotherapy,China,30.5
+5,70,Male,Colon,Immunotherapy,Canada,40.3
+6,62,Female,Stomach,Chemotherapy,Brazil,28.9
+7,75,Male,Lung,Chemotherapy,UK,41.0
+8,59,Female,Breast,Radiation,Germany,42.6
+9,68,Male,Colon,Chemotherapy,France,39.5
+10,64,Female,Stomach,Chemotherapy,India,31.2
+11,60,Male,Stomach,Surgery,Japan,36.7
+12,55,Female,Lung,Chemotherapy,USA,44.2
+13,73,Male,Breast,Immunotherapy,India,37.5
+14,67,Female,Stomach,Chemotherapy,China,29.8
+15,71,Male,Colon,Surgery,Canada,41.1
+16,63,Female,Stomach,Immunotherapy,Brazil,30.2
+17,74,Male,Lung,Surgery,UK,40.7
+18,57,Female,Breast,Chemotherapy,Germany,43.0
+19,69,Male,Colon,Radiation,France,38.9
+20,61,Female,Stomach,Surgery,India,32.1
+32,5,China,Langzhong City,4.9 (19.4)
+21,8,China,Liangshan County,4.5 (11.8)
+15,12,China,Lianshui County,21.0 (49.7)
+29,4,China,Lianyungang City,5.5 (26.9)
+38,7,China,Linhe District, Bayannur City,12.5 (48.5)
+27,11,China,Linqu County,2.2 (11.7)
+43,6,China,Linzhou City,6.1 (16.2)
+14,9,China,Liuzhou City,3.5 (6.5)
+55,3,China,Liyang City,51.2 (62.4)
+6,20,China,Longquan City,0.7 (4.6)
+18,13,China,Lucheng District, Wenzhou City,8.3 (23.9)
+30,17,China,Luoding City,2.9 (13.3)
+22,15,China,Luohe City,2.2 (9.9)
+7,21,China,Luoyang City,1.9 (15.2)
+36,14,China,Luquan City,8.6 (29.5)
+28,19,China,Ma’anshan City,6.3 (26.8)
+41,5,China,Macheng City,8.5 (31.2)
+19,10,China,Meihekou City,8.7 (16.9)
+25,16,China,Mengjin County,14.0 (31.1)
+5,22,China,Nangang District, Harbin City,0.6 (3.7)
+40,8,China,Nanhai District, Foshan City,16.7 (38.0)
+8,23,China,Nanhu District, Jiaxing City,0.7 (4.2)
+12,25,China,Nantong City,0.5 (5.0)
+16,30,China,Nanxiong City,2.2 (14.1)
+20,6,China,Neixiang County,4.0 (16.5)
+11,12,China,Qianxi County,1.2 (5.5)
+33,7,China,Qidong City,28.1 (45.8)
+10,18,China,Qingzhou City,1.1 (3.4)
+24,14,China,Rudong County,0.8 (3.2)
+17,21,China,Rugao City,4.9 (13.3)
+19,26,China,Rural areas of Shanghai City,2.9 (12.5)
+30,22,China,Ruyang County,8.5 (41.8)
+12,19,China,Shan County,1.9 (8.8)
+45,8,China,Shanghai City,27.3 (53.6)
+21,27,China,Shangyu District, Shaoxing City,3.5 (13.6)
+6,32,China,Shapingba District, Chongqing City,1.3 (6.7)
+16,14,China,Shexian County,3.8 (9.3)
+28,23,China,Sheyang County,1.6 (10.1)
+52,7,China,Shijiazhuang City,58.1 (48.5)
+27,18,China,Shunde District, Foshan City,17.1 (45.2)
+12,10,China,Song County,7.6 (30.0)
+11,14,China,Suzhou City,0.9 (7.3)
+40,19,China,Tengzhou City,23.5 (38.5)
+17,22,China,Wangdu County,4.1 (11.9)
+20,24,China,Wanzai County,4.9 (19.7)
+15,27,China,Wu’an City,4.0 (13.0)
+33,30,China,Wuhan City,28.4 (34.2)
+14,32,China,Wuhu City,1.8 (10.1)
+28,25,China,Wuxi City,6.2 (15.9)
+35,23,China,Wuzhou City,10.9 (27.0)
+9,14,China,Xiangfu District, Kaifeng City,0.6 (5.6)
+22,19,China,Xianju County,5.6 (30.1)
+37,16,China,Xin’an County,21.9 (32.7)
+25,21,China,Xining City,8.6 (19.2)
+13,22,China,Xinji City,6.1 (11.5)
+18,27,China,Xinluo District, Longyan City,6.3 (36.6)
+15,20,China,Xinzhou District, Shangrao City,1.6 (7.7)
+8,18,China,Xiping County,2.7 (9.4)
+23,12,China,Xishan District, Kunming City,7.0 (26.9)
+11,15,China,Xuyi County,0.4 (4.3)
+29,10,China,Ya’an City,10.2 (36.8)
+9,22,China,Yakeshi City,0.8 (4.9)
+14,25,China,Yancheng City,2.2 (10.2)
+31,13,China,Yangquan City,15.8 (32.9)
+25,20,China,Yangzhong City,11.0 (27.0)
+40,16,China,Yanji City,30.8 (44.6)
+7,21,China,Yanshi City,0.3 (1.7)
+28,17,China,Yanting County,13.5 (46.8)
+31,12,China,Yi’an District, Tongling City,28.4 (22.9)
+20,15,China,Yingdong District, Fuyang City,5.8 (9.9)
+34,7,Brazil,São Paulo,10.5 (20.3)
+19,8,Brazil,Rio de Janeiro,8.7 (18.2)
+45,3,Brazil,Brasília,12.3 (25.4)
+22,12,Brazil,Belo Horizonte,7.9 (16.9)
+10,5,Brazil,Porto Alegre,9.1 (22.0)
+33,9,Brazil,Recife,6.4 (14.5)
+28,11,Brazil,Salvador,11.2 (27.3)
+15,6,Brazil,Curitiba,8.5 (19.0)
+4,20,Brazil,Fortaleza,5.9 (12.8)
+50,18,Brazil,Manaus,7.0 (15.7)
+37,14,Brazil,Belém,6.7 (13.9)
+25,19,Brazil,Goiânia,9.4 (21.5)
+12,4,Brazil,Natal,10.8 (24.6)
+8,17,Brazil,Maceió,7.1 (17.2)
+46,21,Brazil,Campo Grande,6.3 (14.0)
+21,10,Brazil,João Pessoa,5.8 (12.6)
+30,15,Brazil,Teresina,8.2 (19.3)
+9,16,Brazil,Aracaju,7.4 (15.8)
+23,13,Brazil,São Luís,9.8 (22.8)
+6,22,Brazil,Palmas,6.1 (13.5)
+41,2,Brazil,Vitória,8.0 (17.4)
+
